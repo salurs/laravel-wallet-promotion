@@ -1,14 +1,14 @@
 
-#Wallet - Promotion Code App
+# Wallet - Promotion Code App
 
-##Requirements
+## Requirements
 - Php 8x
 - Laravel 9x
 - Mysql (Mariadb) 10x 
 - Git (lastest)
 - Composer (lastest)
 
-##Installation
+## Installation
     -> clone project
     git clone repoUrl
 
@@ -24,7 +24,7 @@
     -> seed your database with default data
     php artisan db:seed
 
-##Extra
+## Extra
 - Setted a default user and user's wallet
 - Default user can change in AssignPromotionController 
 - [create a promotion code](http://your.domain/api/promotion-codes)
